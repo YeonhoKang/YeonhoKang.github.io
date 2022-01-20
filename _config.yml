@@ -13,9 +13,17 @@ include: ["_pages"]
 permalink: /:title/
 email: rkdrkd20003@naver.com
 
-# Author
-author: Hoya Kang
- 
+# Authors
+authors:
+  Yeonho:
+    name: Yeonho Kang
+    display_name: Hoya
+    avatar: 'assets/images/avatar-sal.png'
+    email: rkdrkd20003@naver.com
+    web: https://blog.naver.com/rkdrkd20003
+    twitter: 
+    description: "커피와 클라이밍을 좋아하는, 하고 싶은게 많은 마케터 호야입니다."
+
 
 # Plugins
 plugins:
