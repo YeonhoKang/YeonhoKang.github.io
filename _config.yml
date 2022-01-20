@@ -2,8 +2,8 @@
 name: "호야의 블로그"
 title: "호야의 블로그"
 description: "호야의 블로그입니다."
-logo: 'assets/images/favicon_hoya_image.png'
-favicon: 'assets/images/favicon_hoya_icon.ico'
+logo: 'assets/images/hoya_favicon.png'
+favicon: 'assets/images/hoya_favicon.png'
 baseurl: ""
 Author: "Hoya"
 google_analytics: 'UA-xxxxxxxx-1'
@@ -18,7 +18,7 @@ authors:
   Yeonho:
     name: Yeonho Kang
     display_name: Hoya
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/hoya_hi.png'
     email: rkdrkd20003@naver.com
     web: https://blog.naver.com/rkdrkd20003
     twitter: 
