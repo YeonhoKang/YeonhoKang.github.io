@@ -4,7 +4,7 @@ title:  "희귀질환 유전진단 회사 마케터의 SQL 입문기 1: SQL 왜 
 author: Hoya
 categories: [ General ]
 tags: [ Blog,Study,비개발자 ]
-image: assets/images/study.png
+image: assets/images/study.jpg
 ---
 <br/>
 ### SQL, 왜 시작했을까?
