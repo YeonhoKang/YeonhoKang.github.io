@@ -2,8 +2,8 @@
 name: "호야의 블로그"
 title: "호야의 블로그"
 description: "호야의 블로그입니다."
-logo: 'assets/images/hoya_favicon.png'
-favicon: 'assets/images/hoya_favicon.png'
+logo: "assets/images/hoya_favicon.png"
+favicon: "assets/images/hoya_favicon.png"
 baseurl: /
 Author: "Hoya"
 google_analytics: 'UA-xxxxxxxx-1'
