@@ -64,7 +64,7 @@ image: assets/images/macbook.jpg
 
 ### 👷어떤 것들을 적용해나가야 할까?
 
-![image of construction site](assets/images/construction.jpg)
+<img src="https://YeonhoKang.github.io/assets/images/construction.jpg">
 
 처음 시작하는 Github, Markdown 기반의 블로그이다보니 원하는대로 수정도 어렵고, 원하는 형태가 나오게 하기까지 시간이 상당히 오래 걸릴 것 같습니다.
 
