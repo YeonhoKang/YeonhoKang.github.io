@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YeonhoKang.github.io/sitemap.xml
+Sitemap: https://yeonhokang.github.io/sitemap.xml
